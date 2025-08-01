@@ -55,7 +55,6 @@ body {
 .card-cyan {
   border-radius: 0.5rem;
   background-color: var(--colors-White);
-  box-shadow: 20rem;
   width: 100%;
   height: 15rem;
   background-color: var(--colors-White);
